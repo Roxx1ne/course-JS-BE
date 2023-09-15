@@ -3,6 +3,7 @@ const customer = {
   middlename: "aulio ",
   lastname: "sopian",
   age: 21,
+  21: "umur"
 };
 
 console.log(
