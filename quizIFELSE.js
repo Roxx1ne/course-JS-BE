@@ -13,3 +13,4 @@ if (score >= 90) {
 } else {
   result = "Anda mendapatkan nilai E.";
 }
+
