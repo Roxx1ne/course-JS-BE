@@ -1,6 +1,7 @@
 let contohSpread = ["nopal", 21, false, "pentol"];
 
 console.log(contohSpread);
+console.log(" ");
 console.log(...contohSpread);
 
 let jenisAir = ["panas", "dingin", "biasa"];
